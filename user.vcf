@@ -1,13 +1,13 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Abdalla;Salma;;;
-FN: Salma  Abdalla 
-ORG:Autlook Filmsales;
-TITLE:CEO
-EMAIL;type=INTERNET;type=WORK;type=pref:salma@autlookfilms.com
-TEL;type=WORK;type=VOICE:+43 676 9003771
-item1.ADR;type=WORK;type=pref:;;Spittelberggasse 3/14\n1070 Vienna;;;Austria
+N:Castoldi;Arianna;;;
+FN: Arianna  Castoldi 
+ORG:Autlook ;
+TITLE:Sales & Acquisitions
+EMAIL;type=INTERNET;type=WORK;type=pref:arianna@autlookfilms.com
+TEL;type=WORK;type=VOICE:+43 670 208 7881
+item1.ADR;type=WORK;type=pref:;;Bernardgasse 39/9\n1070 Vienna;;;Austria
 item1.X-ABADR:sg
 item2.URL;type=pref:autlookfilms.com
 item2.X-ABLabel:_$!<HomePage>!$_
